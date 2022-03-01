@@ -1,1 +1,1 @@
-A new directory created
+A new directory created for git
